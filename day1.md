@@ -38,9 +38,8 @@ Create a function that can take a piece of text and add a new task to your list.
 
 **Instructions:**
 
-* The function should receive the task text as an input.
+* The function should receive the task text as input.
 * Inside the function, create a new task object that has two properties:
-
   * one for the task’s text
   * one for whether it’s completed (start with false)
 * Add this new task object to your global list of tasks.
